@@ -1,0 +1,26 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+Library/
+Logs/
+Temp/
+Build/
+/Obj/
+/Builds/
+/MemoryCaptures/
+
+# Project settings (if you want to ignore local settings)
+/ProjectSettings/
+
+# Visual Studio / Rider / VSCode files
+*.csproj
+*.sln
+*.user
+*.suo
+*.vscode/
+*.idea/
+
+# Unity auto-generated cache
+/[Aa]ssets/AssetStoreTools*/ 
